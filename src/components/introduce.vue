@@ -2,14 +2,12 @@
   <div class="container">
     <div class="code-box">
       <div class="w3-center w3-xxxlarge fantasy">
-        <p>Introduce about us</p>
+        <p>網頁介紹</p>
       </div>
       <br>
       <div class="w3-large serif">
-        Our company is showing the ISO, shutter speed and aperture settings required for the photo. 
-        Detailed explanation of the differences in shooting performance between different brands of cameras.
-        In addition, we will also provide suggestions on the placement and settings of different lighting equipment 
-        (such as soft boxes, reflectors, etc.)so that users can master how to use these auxiliary tools to achieve ideal shooting effects.
+        本人是剪刀!叫我Edward也行,是個人像攝影愛好者。這是我分享照片的主頁,素人和Coserplay我都會拍,也會
+        一些風景照片!不是拍的很好不過希望大家喜歡,有興趣可以找我合作呢~
       </div>
     </div>
     <div class="image-box">

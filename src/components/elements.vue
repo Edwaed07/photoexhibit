@@ -5,14 +5,13 @@
     </div>
     <div class="elem-box">
       <div class="w3-center w3-xxxlarge fantasy">
-        <p>Photography elements</p>
+        <p>攝影理念</p>
       </div>
       <br>
       <div class="w3-large serif">
-        The exposure triangle is the three elements that everyone is most familiar with – Aperture, Shutter Speed ​​and Sensitivity (ISO). 
-        First, the larger the aperture, the shallower the depth of field; the smaller the aperture, the deeper the depth of field. 
-        The second, slow shutter can show the movement of objects Or flow, expressing the flow of time. 
-        The lower the third ISO value, the lower the noise and the clearer the picture.
+        本人相對擅長拍攝帶有情緒氛圍和日系風格的照片，注重細節與畫面情感。拍攝後會少量修圖和將照片剪輯成短片，完成後會將作品分享至 IG 和小紅書。
+        如果你對影像創作有興趣，歡迎一齊合作交流。
+        拍攝作品可在 IG / 小紅書搜尋我。
       </div>
     </div>
   </div>

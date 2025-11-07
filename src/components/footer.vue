@@ -25,7 +25,7 @@ onMounted(() => {
       <a href="https://www.facebook.com/groups/553511078046085/">
         <img src="@/assets/img/main/fb.png">
       </a>
-      <a href="https://www.instagram.com/lightstalking/">
+      <a href="https://www.instagram.com/_edward_yy/">
         <img src="@/assets/img/main/ins.png">
       </a>
       <a href="https://x.com/fotobeginner">
@@ -34,7 +34,7 @@ onMounted(() => {
     </div>
 
     <footer class="flex-end footer-padding">
-      <p>©2024 Yada Photography</p>
+      <p>©超級無敵剪刀-owo</p>
     </footer>
   </div>
 </template>

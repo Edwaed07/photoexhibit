@@ -87,6 +87,10 @@ const router = createRouter({
       path: '/Coser',
       name: 'Coser',
       component: () => import('../portrait/coser.vue')
+    },    {
+      path: '/Upload',
+      name: 'Upload',
+      component: () => import('../components/upload.vue')
     }
     
   ]
