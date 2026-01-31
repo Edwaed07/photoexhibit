@@ -26,14 +26,14 @@ import '@/assets/home.css';
         </div>
       </div>
       <hr>
-      <div class="dropdown">
+      <!--<div class="dropdown">
         <a class="w3-bar-item bold">光線</a>
         <div class="dropdown-content w3-medium">
           <router-link to="/NatLight">自然光</router-link>
           <router-link to="/PhotoLight">閃光燈</router-link>
         </div>
       </div>
-      <hr>
+      <hr>-->
       <div class="dropdown">
         <a class="w3-bar-item bold">人像攝影</a>
         <div class="dropdown-content w3-medium">

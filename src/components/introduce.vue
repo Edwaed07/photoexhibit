@@ -6,8 +6,8 @@
       </div>
       <br>
       <div class="w3-large serif">
-        本人是剪刀!叫我Edward也行,是個人像攝影愛好者。這是我分享照片的主頁,素人和Coserplay我都會拍,也會
-        一些風景照片!不是拍的很好不過希望大家喜歡,有興趣可以找我合作呢~
+        本人是Edward!cn是剪刀,是個人像攝影愛好者。這是我分享照片的主頁,素人和Coserplay我都會拍,也會
+        一些風景照片!雖然不是拍得很好不過希望大家喜歡,也歡迎大家找我合作/互勉(合適的風格)OwO
       </div>
     </div>
     <div class="image-box">
@@ -19,7 +19,7 @@
 </template>
 
 <script setup>
-import '@/assets/home.css'; 
+import '@/assets/home.css';
 import { ref, onMounted } from 'vue';
 
 const moveImage1 = ref(null);
